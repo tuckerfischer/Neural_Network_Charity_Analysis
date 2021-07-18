@@ -6,7 +6,7 @@ In this project we were tasked with building a neural network in order to determ
 
 ## Results
 
-###Data Preprocessing
+### Data Preprocessing
 
 Before doing the analysis we removed the companies name and identifier. The features we took in to consideration were:
 
@@ -22,5 +22,5 @@ Before doing the analysis we removed the companies name and identifier. The feat
 
 The target of this analysis was whether not not the money was used effectively.
 
-###Compiling, Training, and Evaluating the Model
+### Compiling, Training, and Evaluating the Model
 
